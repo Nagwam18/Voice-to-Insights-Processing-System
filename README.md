@@ -119,6 +119,11 @@ python dashboard/dash_app.py
 ```
 ## Dashboard Screenshots
 
+ ![Dashboard Screenshot](assetss/1.png)
+ ![Dashboard Screenshot](assetss/2.png)
+ ![Dashboard Screenshot](assetss/3.png)
+
+
 
 ## Notes
 
