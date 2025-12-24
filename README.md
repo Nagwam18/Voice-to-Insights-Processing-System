@@ -116,6 +116,11 @@ python dashboard/dash_app.py
   "sentiment": "Frustrated but cooperative"
 }
 ```
+## Demo
+
+Simple link:
+[Watch the demo (Google Drive)](https://drive.google.com/file/d/1wRptNE8PMT2zKF1pNQ3e5E0SuAvD_m0l/view?usp=sharing)
+
 ## Dashboard Screenshots
 
  ![Dashboard Screenshot](assetss/1.png)
