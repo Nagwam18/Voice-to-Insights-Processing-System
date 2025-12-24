@@ -55,8 +55,7 @@ voice_to_insights/
 │ └── store/
 │ └── memory.py
 │
-├── dashboard/
-│ └── dash_app.py
+├── dash_app.py
 │
 ├── requirements.txt
 ├── README.md
