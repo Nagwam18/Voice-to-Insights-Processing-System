@@ -1,0 +1,25 @@
+transformers==4.45.2
+accelerate==0.34.2
+safetensors==0.4.3
+sentencepiece
+
+torch==2.3.1+cu118
+torchvision==0.18.1+cu118
+torchaudio==2.3.1+cu118
+-f https://download.pytorch.org/whl/cu118
+
+av
+protobuf==5.26.1
+
+fastapi
+uvicorn
+nest_asyncio
+requests
+
+pydantic-ai
+huggingface_hub
+pyngrok
+
+dash
+dash-bootstrap-components
+pydub
