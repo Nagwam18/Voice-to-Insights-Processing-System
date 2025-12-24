@@ -54,9 +54,9 @@ voice_to_insights/
 │ │ └── sentiment.py
 │ └── store/
 │ └── memory.py
-│
 ├── dash_app.py
-│
+├── NoteBook/
+│     └── voice-to-insights-processing-system.ipynb
 ├── requirements.txt
 ├── README.md
 └── .env
